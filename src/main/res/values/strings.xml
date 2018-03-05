@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Тест ЭБ</string>
+    <string name="next">Дальше</string>
+    <string name="help">Подсказки</string>
+    <string name="random">В случайном порядке</string>
+    <string name="six">Настройки</string>
+</resources>
